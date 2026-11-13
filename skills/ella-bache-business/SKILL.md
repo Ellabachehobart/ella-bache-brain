@@ -117,8 +117,7 @@ Before changing anything in any connected system, decide whether the owner is **
 | Radiance Intensive Eye Treatment | [TO CONFIRM] | [TO CONFIRM] | Standalone or add-on to confirm |
 | Advanced LED Therapy | [TO CONFIRM] | $63.70 | |
 | Microneedling | [TO CONFIRM] | $250 | Council skin-penetration licence: see skin-care-expert 14.2 |
-| Hydrafacial | [TO CONFIRM] | [TO CONFIRM] | Offered (owner) |
-| Microdermabrasion | [TO CONFIRM] | [TO CONFIRM] | Offered (owner) |
+| Microdermabrasion (Reveal My Good Side) | [TO CONFIRM] | [TO CONFIRM] | Offered (owner) |
 | AHA peels | [TO CONFIRM] | [TO CONFIRM] | Offered (owner) |
 | SHR/IPL: pigmentation and skin rejuvenation | [TO CONFIRM] | [TO CONFIRM] | Not a laser; consultation and patch test; Tasmanian radiation licence |
 | SHR/IPL: hair reduction | [TO CONFIRM] | [TO CONFIRM] | As above |
@@ -129,7 +128,7 @@ Before changing anything in any connected system, decide whether the owner is **
 
 **Gift vouchers:** any amount the buyer chooses (owner). Expiry: [TO CONFIRM]; must be at least 3 years under the ACL (skin-care-expert 14.3).
 
-**Not offered:** cosmetic injectables, laser (the machine is SHR/IPL), medical treatment of skin disease. Online product sales by the salon [TO CONFIRM: products are bought in salon; product pages link to ellabache.com.au].
+**Not offered:** Hydrafacial (no Hydrafacial machine; owner, 10 Nov 2026: point to microdermabrasion or Help Me Hydrate instead), cosmetic injectables, laser (the machine is SHR/IPL), medical treatment of skin disease. Online product sales by the salon [TO CONFIRM: products are bought in salon; product pages link to ellabache.com.au].
 
 ## 4. Retail products
 Ella Baché face care (home-care ranges; product knowledge in skin-care-expert section 11). Each facial is linked to a home-care range. Monthly Ella Baché gift-with-purchase and head-office promotions run through the year [dates from head office]. Online shop: head office's ellabache.com.au, not the salon.
@@ -182,7 +181,7 @@ Large existing waxing and hair-removal clientele; growing skin-care focus (pigme
 - Legal entity name and ABN.
 - **Monday hours:** owner said 9 am to 4 pm; Hello Hobart directory shows 9 am to 5:30 pm. Which is right, and does Google show the right hours?
 - Public holiday hours; parking and access tips.
-- Durations for every facial; prices for Hydrafacial, microdermabrasion, AHA peels, SHR/IPL, waxing, lashes, brows, nails, tan, makeup, Radiance Intensive Eye Treatment.
+- Durations for every facial; prices for microdermabrasion, AHA peels, SHR/IPL, waxing, lashes, brows, nails, tan, makeup, Radiance Intensive Eye Treatment.
 - Re-confirm prices for Help Me Hydrate, Defend My Resilience and Our Signature Experience.
 - Cancellation, late arrival and no-show policy; deposits; walk-ins.
 - Gift voucher expiry wording.
@@ -196,4 +195,5 @@ Large existing waxing and hair-removal clientele; growing skin-care focus (pigme
 - YouTube handle; email newsletter platform.
 
 ## Changelog
+- 2026-11-13 - Hydrafacial removed from the treatment list and added to Not offered (no machine); microdermabrasion named Reveal My Good Side. Feedback: https://app.notion.com/41376ddcbf598148a34cd71c9cec01fc
 - 2026-11-04 - v1 created from the owner's statements (Sep to Nov 2026), the ella-bache-hobart-seo skill (business context, facials menu, guardrails), the ig-engine salon reference and the Hello Hobart listing, following the Icon Footwear business skill pattern.

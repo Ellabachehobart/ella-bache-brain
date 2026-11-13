@@ -53,7 +53,7 @@ What doesn't move rankings: **GBP posts** (Sterling Sky test, no measurable effe
 ## 2. Google Business Profile checklist
 - Primary category as section 1; secondary categories only if accurate (e.g. Waxing hair removal service, Eyelash salon, Beauty salon - check competitors' categories first).
 - Name exactly "Ella Baché Hobart".
-- **Services:** every true predefined service (facial, waxing, eyelash extensions, lash lift, manicure, pedicure, spray tan, makeup, hair removal, skin care), plus custom services (Skin Diagnosis on the Observ, Advanced Skin Diagnosis, SHR/IPL pigmentation, SHR/IPL hair reduction, Hydrafacial, microdermabrasion, microneedling, LED, formal packages) with one-line descriptions that pass skin-care-expert section 14. Prices only from ella-bache-business.
+- **Services:** every true predefined service (facial, waxing, eyelash extensions, lash lift, manicure, pedicure, spray tan, makeup, hair removal, skin care), plus custom services (Skin Diagnosis on the Observ, Advanced Skin Diagnosis, SHR/IPL pigmentation, SHR/IPL hair reduction, microdermabrasion, microneedling, LED, formal packages) with one-line descriptions that pass skin-care-expert section 14. Prices only from ella-bache-business.
 - Address, phone, website (UTM-tagged: utm_source=google&utm_medium=organic&utm_campaign=gbp), hours incl. public holidays and Christmas, entered weeks ahead.
 - **Hours strategy:** compare with competitors; list extra hours only if the salon will really keep them. Rankings drop while the profile shows closed.
 - Description (up to 750 characters): skin first, free skin diagnosis, Ella Baché home care, SHR/IPL, waxing expertise, Tasmanian therapists, Hobart in the first sentence. No promises.
@@ -82,7 +82,7 @@ The salon's own site (ellabachehobart.com.au) is being rebuilt; the home page an
 
 ## 6. Local queries to track
 **Grid-tracked core 5** (map pack, open and closed hours): facials hobart; beauty salon hobart; waxing hobart; ipl hobart; skin clinic hobart.
-**Monthly in Search Console:** ella bache hobart; facial near me (from Hobart); brazilian wax hobart; eyelash extensions hobart; lash lift hobart; hydrafacial hobart; microneedling hobart; microdermabrasion hobart; pigmentation treatment hobart (check suitability rules first: melasma); ipl hair removal hobart; spray tan hobart; formal makeup hobart; bridal makeup hobart; gift voucher beauty hobart; question queries ("where to get a facial in Hobart"). Mine new terms from review text, client questions and Search Console.
+**Monthly in Search Console:** ella bache hobart; facial near me (from Hobart); brazilian wax hobart; eyelash extensions hobart; lash lift hobart; microneedling hobart; microdermabrasion hobart; pigmentation treatment hobart (check suitability rules first: melasma); ipl hair removal hobart; spray tan hobart; formal makeup hobart; bridal makeup hobart; gift voucher beauty hobart; question queries ("where to get a facial in Hobart"). Hydrafacial is not offered (see ella-bache-business): never list it as a service, plan a page for it or target it as a keyword. Mine new terms from review text, client questions and Search Console.
 **Grid tracking:** rankings depend on where the searcher stands. Use a grid centred on 7 Criterion St (CBD, Sandy Bay, North Hobart, New Town, Battery Point, eastern shore) and aim to widen the area where we're top 3.
 
 ## 7. Local AI answers (monthly)
@@ -147,4 +147,5 @@ Evidence carried over from the Icon Footwear brain's local SEO skill (verified 2
 - _Add new local SEO articles here._
 
 ## Changelog
+- 2026-11-13 - Hydrafacial removed from GBP services and tracked queries, with a note not to list it or plan a page for it (the salon has no Hydrafacial machine). Feedback: https://app.notion.com/41376ddcbf598148a34cd71c9cec01fc
 - 2026-11-04 - v1 built from the Icon Footwear local SEO skill structure (evidence, review rules, measurement kept); every Icon fact, query, category and listing replaced with Ella Baché Hobart ones; franchise and privacy-in-replies rules added.
