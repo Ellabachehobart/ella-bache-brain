@@ -128,6 +128,7 @@ Offer **5 title options** when asked; recommend one.
 | Email | Subject (specific, <50 chars) + preview text; one idea; one CTA |
 | Social post | Hook line; 2-4 short lines; CTA or question; platform-appropriate length |
 | Ad copy | Headline = need or product + benefit; description = proof + real offer; within platform limits; matches the landing page |
+| Ad image | Bold, not plain: a big hero photo, a hook line, the price and saving shown, every treatment in the package listed, and a clear Book button |
 | Update brief | Exactly what to add/fix ("explain X, add Y, link Z"), not "refresh this page" |
 
 **Repurposing:** offer a short social version (hook + 3 points + CTA) and an email subject line from longer pieces when useful.
@@ -252,6 +253,7 @@ Short asks: deliver only what was asked.
 - _Add new writing-craft articles here._
 
 ## Changelog
+- 2026-11-20 - Ad image row added to channel formats: bold, with hero photo, hook, price and saving, every treatment listed, clear Book button. Feedback: https://app.notion.com/41876ddcbf598122abaaf165550110e5
 - 2026-11-04 - copied into the Ella Baché brain from icon-footwear-brain (v8); skill references pointed at ella-bache-* skills and skin-care-expert; footwear examples swapped for skin and salon ones (fan-out angles, explicit relationships, showdown criteria, closes and CTAs). Check every example against skin-care-expert and the brand voice before using it as a model.
 - 2026-10-22 - v8: new section 1a Target: SEO, AI or Both (what changes per target, Both as default, never-trade rules); target added to the brief and assumptions line; 7.6 checklist split into SEO and AI.
 - 2026-10-22 - v7: query fan-out added to section 2 (sub-question angles, cover what/why/how on one page, coverage isn't padding, distinct intents get links not merges); section 3 adds explicit relationships, consistent terms, verifiable non-absolute claims; topic-scope line in 7.2.

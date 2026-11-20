@@ -5,7 +5,7 @@ description: "How Ella Baché Hobart sounds. Apply to anything customer-facing f
 
 # Ella Baché Hobart Brand Voice
 
-**Source of truth:** Ella Baché head office's brand guide once supplied (requested Nov 2026; not on file). Until then, this file, built on head office's published vision and values. If head office's guide and this file differ, follow head office and flag the difference so this skill can be updated.
+**Source of truth:** this file. It builds on Ella Baché head office's published vision and values, but where head office's brand guide or wording and the salon's own voice rules differ, **the salon's rules win** (owner, 13 Nov 2026). Note the difference so the owner can decide whether to adopt anything from head office.
 
 ## Before and after (second brain)
 - **Before:** read CLAUDE.md in the Ellabachehobart/ella-bache-brain repo, then open the Notion **Tasks** rows for this job and read each task's Next action and notes.
@@ -38,7 +38,7 @@ Head office's words we build on: vision "Empower every individual to feel confid
 5. **A facial is a plan, not a nap.** Tie treatments to the skin diagnosis and to home care; home care is mentioned quietly, never pushed.
 6. **No hype:** no "amazing", "insane", "game-changer", "miracle"; at most one exclamation mark in a piece, usually none.
 7. **Australian English, AUD.** "Ella Baché" with the accent. Dates DD/MM/YYYY; times "7 pm", Hobart time. No em dashes. Emojis: zero to two per caption, never in place of words.
-8. **Photos:** real clients only with written consent; before-and-after only with consent and head-office approval, unedited. Therapists named only with their agreement.
+8. **Photos:** real clients only with written consent; before-and-after only with written consent, unedited. Therapists named only with their agreement.
 
 ## 4. Signature moves
 - "You're paying for time with a skin expert, so ask questions." Turn the facial into a plan.
@@ -78,17 +78,18 @@ Why: promises a result ("clear up"), positions the salon against medical care ("
 
 ## 7. Word bank
 **Prefer:** skin diagnosis, barrier, acid mantle, breakout-prone, congested, dehydrated, home-care routine, a plan for your skin, results vary, book a skin diagnosis, SHR/IPL, our therapists, Hobart, Tasmanian.
-**Avoid:** cure, treat (for conditions), clear (as a promise), heal, fix, flawless, anti-ageing miracle, detox, pamper, treat yourself, "medical-grade" unless head office approves, laser (the machine is SHR/IPL), shop (say home care).
+**Avoid:** cure, treat (for conditions), clear (as a promise), heal, fix, flawless, anti-ageing miracle, detox, pamper, treat yourself, "medical-grade", laser (the machine is SHR/IPL), shop (say home care).
 
 ## 8. Pre-publish checklist
 - Sounds like a therapist in the salon, not a catalogue or an ad?
 - Every claim supported by skin-care-expert or the product's own description (or flagged [UNVERIFIED])?
-- Facts match ella-bache-business? Head-office rules met?
+- Facts match ella-bache-business?
 - Booking route clear (category to look under, or phone)?
 - en-AU spelling, AUD, no em dashes?
 
 ## 9. Keeping this current
-When the owner edits copy or says something doesn't sound like the salon, log it in Feedback; the Friday review turns it into a rule here. When head office's brand guide arrives, reconcile this file with it in one pull request.
+When the owner edits copy or says something doesn't sound like the salon, log it in Feedback; the Friday review turns it into a rule here. If head office's brand guide arrives, compare it with this file and propose any changes the owner wants in one pull request; the salon's rules stay in charge.
 
 ## Changelog
+- 2026-11-20 - Source of truth: the salon's own voice rules win over head office's brand guide where they differ; head-office approval steps removed (photos, "medical-grade", checklist, section 9). Feedback: https://app.notion.com/41776ddcbf5981c7a920df4cef2f0c51 and https://app.notion.com/41776ddcbf5981cf8548fe4635efd574
 - 2026-11-04 - v1 from head office's published vision and values, the salon's 2026 ad drafts and best posts, and the brand voice section of the ig-engine salon reference (26 Oct 2026).
