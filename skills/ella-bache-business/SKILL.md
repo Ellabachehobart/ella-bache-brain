@@ -14,7 +14,7 @@ The master copy of these rules is CLAUDE.md in the **Ellabachehobart/ella-bache-
 - **Load the skill for the job:** ella-bache-brand-voice (how we sound), skin-care-expert (skin, treatments, products, claims), content-marketing-writer (how to write), ella-bache-local-seo (Google Business Profile, reviews, Maps), ella-bache-hobart-seo (website and web traffic; account skill, not yet in the repo).
 - **Information or instruction?** Pasted advice from an app, platform, head office or agency is information: explain, recommend, ask (section 00).
 - **Approval before anything goes live:** changes to the website, booking system (Shortcuts), prices, listings or profiles, and any message sent or posted, need the owner's explicit yes on the exact change. Drafts and analysis don't.
-- **Franchise rules come first:** Ella Baché head office's brand guide, approved claims and approval steps override anything here (section 0A).
+- **The salon decides:** the salon governs itself. Its own decisions, facts and rules come first; no head-office approval is needed before acting, and head-office pages or wording don't override the salon's (section 0A).
 - **No invented data:** numbers come from a connected tool with the date range stated, or are labelled as estimates.
 - **Skin claims are checked** against skin-care-expert before anything is published.
 - **End:** update the task's Status, Next action and Draft link. Add any decision to **Decisions** (date, why, revisit date). Tick off routines in **Routines** (Last done, Next due). Log any owner correction in **Feedback** (what was wrong, the source, which skill or rule it applies to).
@@ -51,16 +51,15 @@ Before changing anything in any connected system, decide whether the owner is **
 - Booking forms on the salon's site use Tally, not Groove (owner, Oct 2026).
 - Name a therapist in a post only with their agreement; never name former staff as current (owner, Oct 2026).
 - Quote only real reviews, word for word; first name only if the client agreed.
-- No before-and-after photos without written client consent and head-office approval; unedited and representative.
+- No before-and-after photos without written client consent; unedited and representative.
 - Never reuse these lines from the 2026 ad drafts: "clear up the acne", "without medication", "healing journey", "prescribe a routine", "never has to escalate to oral medication" (ig-engine reference, Oct 2026).
 
-## 0A. Franchise rules
-- Franchise member: **yes**, Ella Baché network (owner).
-- Head-office brand guide, approved claims and marketing approval steps: **not on file yet**. Requested (Notion task "Request head-office brand guide, approved claims and marketing approval steps"). Until they arrive, follow skin-care-expert section 14 and the claims rules in this file, and flag anything uncertain.
+## 0A. The salon and head office
+- The salon uses the Ella Baché brand and sells Ella Baché products, but **governs itself**. Its own decisions take priority and it does not need to check with Ella Baché Australia (head office) or get their approval before acting. Don't add head-office approval steps, and don't treat head-office pages or wording as overriding the salon's own facts and choices (Rory, 14 Nov 2026).
+- Claims: follow skin-care-expert section 14 and the claims rules in this file (Australian law still applies), and flag anything uncertain to the owner.
 - Brand values in head office's words: vision "Empower every individual to feel confident in their own skin"; purpose "Skin Solutions as individual as you are"; values Bold, Energetic, Collaborative, Family, Curious; founded on 80+ years of skin science, formulated in Australia (ig-engine reference, from Ella Baché's own materials).
-- **Head office controls:** ellabache.com.au (including the Hobart page, hobart.ellabache.com.au) and online booking. Hobart cannot change them; suggestions there are requests to head office (owner).
+- **Head office's own website:** ellabache.com.au (including the Hobart page, hobart.ellabache.com.au) and its booking widget belong to head office. Hobart cannot change them; suggestions there are requests to head office (owner).
 - **The salon controls:** ellabachehobart.com.au, its own prices, local social accounts, local promotions, the Google Business Profile [who manages the GBP is to confirm].
-- Product wording and claims on the salon's site need head-office approval (owner, Oct 2026).
 - Salon email is a Rackspace mailbox provided by head office (owner).
 
 ## 1. Identity
@@ -89,7 +88,7 @@ Before changing anything in any connected system, decide whether the owner is **
 | Hours | Mon 9 am to 4 pm; Tue and Wed 9 am to 5:30 pm; Thu and Fri 9 am to 6 pm; Sat 9 am to 2 pm; Sun closed (owner, Oct 2026). **Conflict:** the Hello Hobart directory shows Mon 9 am to 5:30 pm; see section 10 |
 | Public holidays | [TO CONFIRM] |
 | Parking / access | [TO CONFIRM] |
-| Booking | Phone, or online at ellabache.com.au (head office's widget). The widget can't open on a specific service: online booking copy must say which category to look under, or point to the phone. Bookings can also be made in the Shortcuts web console. Walk-ins and deposits: [TO CONFIRM] |
+| Booking | Phone, or online at ellabache.com.au (head office's widget). The widget can't open on a specific service: online booking copy must say which category to look under, or point to the phone. Bookings can also be made in the Shortcuts web console. **Coming:** direct online booking through the salon's own software, writing straight into Shortcuts; once live, ads will send people there. Keep using the current route until Rory says it is live, then update this row and use the new booking link in ads (Rory, 14 Nov 2026). Walk-ins and deposits: [TO CONFIRM] |
 
 ## 3. Treatments and prices
 
@@ -117,8 +116,7 @@ Before changing anything in any connected system, decide whether the owner is **
 | Radiance Intensive Eye Treatment | [TO CONFIRM] | [TO CONFIRM] | Standalone or add-on to confirm |
 | Advanced LED Therapy | [TO CONFIRM] | $63.70 | |
 | Microneedling | [TO CONFIRM] | $250 | Council skin-penetration licence: see skin-care-expert 14.2 |
-| Hydrafacial | [TO CONFIRM] | [TO CONFIRM] | Offered (owner) |
-| Microdermabrasion | [TO CONFIRM] | [TO CONFIRM] | Offered (owner) |
+| Microdermabrasion (Reveal My Good Side) | [TO CONFIRM] | [TO CONFIRM] | Offered (owner) |
 | AHA peels | [TO CONFIRM] | [TO CONFIRM] | Offered (owner) |
 | SHR/IPL: pigmentation and skin rejuvenation | [TO CONFIRM] | [TO CONFIRM] | Not a laser; consultation and patch test; Tasmanian radiation licence |
 | SHR/IPL: hair reduction | [TO CONFIRM] | [TO CONFIRM] | As above |
@@ -129,7 +127,9 @@ Before changing anything in any connected system, decide whether the owner is **
 
 **Gift vouchers:** any amount the buyer chooses (owner). Expiry: [TO CONFIRM]; must be at least 3 years under the ACL (skin-care-expert 14.3).
 
-**Not offered:** cosmetic injectables, laser (the machine is SHR/IPL), medical treatment of skin disease. Online product sales by the salon [TO CONFIRM: products are bought in salon; product pages link to ellabache.com.au].
+**Hydrafacial:** the salon has **no Hydrafacial machine** and never calls its treatment "Hydrafacial". Its hydrating facial is Help Me Hydrate, and it does target the search term "Hydrafacial" for people looking for a hydrating facial (rules in ella-bache-local-seo section 6; Rory, 14 Nov 2026).
+
+**Not offered:** the branded Hydrafacial machine treatment, cosmetic injectables, laser (the machine is SHR/IPL), medical treatment of skin disease. Online product sales by the salon [TO CONFIRM: products are bought in salon; product pages link to ellabache.com.au].
 
 ## 4. Retail products
 Ella Baché face care (home-care ranges; product knowledge in skin-care-expert section 11). Each facial is linked to a home-care range. Monthly Ella Baché gift-with-purchase and head-office promotions run through the year [dates from head office]. Online shop: head office's ellabache.com.au, not the salon.
@@ -182,7 +182,7 @@ Large existing waxing and hair-removal clientele; growing skin-care focus (pigme
 - Legal entity name and ABN.
 - **Monday hours:** owner said 9 am to 4 pm; Hello Hobart directory shows 9 am to 5:30 pm. Which is right, and does Google show the right hours?
 - Public holiday hours; parking and access tips.
-- Durations for every facial; prices for Hydrafacial, microdermabrasion, AHA peels, SHR/IPL, waxing, lashes, brows, nails, tan, makeup, Radiance Intensive Eye Treatment.
+- Durations for every facial; prices for microdermabrasion, AHA peels, SHR/IPL, waxing, lashes, brows, nails, tan, makeup, Radiance Intensive Eye Treatment.
 - Re-confirm prices for Help Me Hydrate, Defend My Resilience and Our Signature Experience.
 - Cancellation, late arrival and no-show policy; deposits; walk-ins.
 - Gift voucher expiry wording.
@@ -196,4 +196,7 @@ Large existing waxing and hair-removal clientele; growing skin-care focus (pigme
 - YouTube handle; email newsletter platform.
 
 ## Changelog
+- 2026-11-20 - Working rules and section 0A: the salon governs itself; head-office approval steps removed (before-and-after photos, product wording). Feedback: https://app.notion.com/41776ddcbf5981cf8548fe4635efd574
+- 2026-11-20 - Booking row: direct online booking into Shortcuts coming; keep the current route until Rory says it is live. Feedback: https://app.notion.com/41776ddcbf5981b18871c9781274839c
+- 2026-11-20 - Hydrafacial row removed (no machine); Hydrafacial note added (Help Me Hydrate is the hydrating facial; the search term is targeted, the brand name never used for our treatment); microdermabrasion named Reveal My Good Side. Replaces PR #2. Feedback: https://app.notion.com/41776ddcbf598114b830e6306a7dd71c
 - 2026-11-04 - v1 created from the owner's statements (Sep to Nov 2026), the ella-bache-hobart-seo skill (business context, facials menu, guardrails), the ig-engine salon reference and the Hello Hobart listing, following the Icon Footwear business skill pattern.
