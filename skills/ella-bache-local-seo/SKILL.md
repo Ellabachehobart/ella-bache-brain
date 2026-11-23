@@ -53,7 +53,7 @@ What doesn't move rankings: **GBP posts** (Sterling Sky test, no measurable effe
 ## 2. Google Business Profile checklist
 - Primary category as section 1; secondary categories only if accurate (e.g. Waxing hair removal service, Eyelash salon, Beauty salon - check competitors' categories first).
 - Name exactly "Ella Baché Hobart".
-- **Services:** every true predefined service (facial, waxing, eyelash extensions, lash lift, manicure, pedicure, spray tan, makeup, hair removal, skin care), plus custom services (Skin Diagnosis on the Observ, Advanced Skin Diagnosis, SHR/IPL pigmentation, SHR/IPL hair reduction, Hydrafacial, microdermabrasion, microneedling, LED, formal packages) with one-line descriptions that pass skin-care-expert section 14. Prices only from ella-bache-business.
+- **Services:** every true predefined service (facial, waxing, eyelash extensions, lash lift, manicure, pedicure, spray tan, makeup, hair removal, skin care), plus custom services (Skin Diagnosis on the Observ, Advanced Skin Diagnosis, SHR/IPL pigmentation, SHR/IPL hair reduction, microdermabrasion (Reveal My Good Side), hydrating facial (Help Me Hydrate), microneedling, LED, formal packages) with one-line descriptions that pass skin-care-expert section 14. Prices only from ella-bache-business.
 - Address, phone, website (UTM-tagged: utm_source=google&utm_medium=organic&utm_campaign=gbp), hours incl. public holidays and Christmas, entered weeks ahead.
 - **Hours strategy:** compare with competitors; list extra hours only if the salon will really keep them. Rankings drop while the profile shows closed.
 - Description (up to 750 characters): skin first, free skin diagnosis, Ella Baché home care, SHR/IPL, waxing expertise, Tasmanian therapists, Hobart in the first sentence. No promises.
@@ -83,6 +83,7 @@ The salon's own site (ellabachehobart.com.au) is being rebuilt; the home page an
 ## 6. Local queries to track
 **Grid-tracked core 5** (map pack, open and closed hours): facials hobart; beauty salon hobart; waxing hobart; ipl hobart; skin clinic hobart.
 **Monthly in Search Console:** ella bache hobart; facial near me (from Hobart); brazilian wax hobart; eyelash extensions hobart; lash lift hobart; hydrafacial hobart; microneedling hobart; microdermabrasion hobart; pigmentation treatment hobart (check suitability rules first: melasma); ipl hair removal hobart; spray tan hobart; formal makeup hobart; bridal makeup hobart; gift voucher beauty hobart; question queries ("where to get a facial in Hobart"). Mine new terms from review text, client questions and Search Console.
+**"Hydrafacial" searches (Rory, 14 Nov 2026):** people use "Hydrafacial" (one manufacturer's brand) to mean any hydrating facial. Target the search term in SEO, Google Ads and page copy, e.g. "Looking for a Hydrafacial in Hobart? Our hydrating facial, Help Me Hydrate...". The salon has no Hydrafacial machine: never call our treatment "Hydrafacial", list it as a Hydrafacial service, or imply it is the branded machine treatment (trade mark and Australian Consumer Law; check with skin-care-expert section 14). The owner's view that ours is better stays internal unless it can be backed up.
 **Grid tracking:** rankings depend on where the searcher stands. Use a grid centred on 7 Criterion St (CBD, Sandy Bay, North Hobart, New Town, Battery Point, eastern shore) and aim to widen the area where we're top 3.
 
 ## 7. Local AI answers (monthly)
@@ -147,4 +148,5 @@ Evidence carried over from the Icon Footwear brain's local SEO skill (verified 2
 - _Add new local SEO articles here._
 
 ## Changelog
+- 2026-11-20 - Hydrafacial: target the search term, never call our treatment Hydrafacial (no machine); GBP custom services now list microdermabrasion (Reveal My Good Side) and the hydrating facial (Help Me Hydrate) instead of Hydrafacial. Replaces PR #2. Feedback: https://app.notion.com/41776ddcbf598114b830e6306a7dd71c
 - 2026-11-04 - v1 built from the Icon Footwear local SEO skill structure (evidence, review rules, measurement kept); every Icon fact, query, category and listing replaced with Ella Baché Hobart ones; franchise and privacy-in-replies rules added.
