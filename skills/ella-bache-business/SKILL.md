@@ -158,7 +158,7 @@ Ella Baché face care (home-care ranges; product knowledge in skin-care-expert s
 | Email newsletter | [TO CONFIRM] | |
 
 ## 8. Clients and context
-Large existing waxing and hair-removal clientele; growing skin-care focus (pigmentation, ongoing breakouts, hydration, age care). Southern hemisphere seasons: summer Dec to Feb (formal and leavers' season Sep to Dec), Tasmania has high UV in spring and summer despite cool air. Strongest gifting moments: Mother's Day and Christmas. Competitors for skin and facials in Hobart: Escape, White Sage, and a few others (owner). Partnership in discussion: Tasmania Devils AFL club (preferred salon / Official Supplier) - not public until agreed.
+Large existing waxing and hair-removal clientele; growing skin-care focus (pigmentation, ongoing breakouts, hydration, age care). Southern hemisphere seasons: summer Dec to Feb (formal and leavers' season Sep to Dec), Tasmania has high UV in spring and summer despite cool air. Strongest gifting moments: Mother's Day and Christmas. Competitors for skin and facials in Hobart: Escape, White Sage, and a few others (owner). Escape, White Sage and the others also have an Observ machine, they just don't show it: never claim competitors lack one. Our edge is showing the skin check, not owning the machine (owner, 20 Nov 2026). Partnership in discussion: Tasmania Devils AFL club (preferred salon / Official Supplier) - not public until agreed.
 
 ## 9. Systems
 | System | Use | What Claude can do |
@@ -196,6 +196,7 @@ Large existing waxing and hair-removal clientele; growing skin-care focus (pigme
 - YouTube handle; email newsletter platform.
 
 ## Changelog
+- 2026-11-27 - Section 8: competitors have an Observ machine too; never claim they lack one; our edge is showing the skin check. Feedback: https://app.notion.com/41e76ddcbf5981f2a8d6c124d6c23110
 - 2026-11-20 - Working rules and section 0A: the salon governs itself; head-office approval steps removed (before-and-after photos, product wording). Feedback: https://app.notion.com/41776ddcbf5981cf8548fe4635efd574
 - 2026-11-20 - Booking row: direct online booking into Shortcuts coming; keep the current route until Rory says it is live. Feedback: https://app.notion.com/41776ddcbf5981b18871c9781274839c
 - 2026-11-20 - Hydrafacial row removed (no machine); Hydrafacial note added (Help Me Hydrate is the hydrating facial; the search term is targeted, the brand name never used for our treatment); microdermabrasion named Reveal My Good Side. Replaces PR #2. Feedback: https://app.notion.com/41776ddcbf598114b830e6306a7dd71c
