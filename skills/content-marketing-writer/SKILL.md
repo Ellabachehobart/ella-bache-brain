@@ -129,6 +129,8 @@ Offer **5 title options** when asked; recommend one.
 | Social post | Hook line; 2-4 short lines; CTA or question; platform-appropriate length |
 | Ad copy | Headline = need or product + benefit; description = proof + real offer; within platform limits; matches the landing page |
 | Ad image | Bold, not plain: a big hero photo, a hook line, the price and saving shown, every treatment in the package listed, and a clear Book button |
+| Ad image alternatives | Each alternative template is a genuinely different layout (composition, hierarchy, crop), not the same layout in new colours; avoid the standard photo-on-top plus text-panel ad, which reads as boring |
+| Carousel ad | The main link and the end card go to the overview page (e.g. /hobart_formal_packages); each card's Book Now goes to that package's own booking page |
 | Update brief | Exactly what to add/fix ("explain X, add Y, link Z"), not "refresh this page" |
 
 **Repurposing:** offer a short social version (hook + 3 points + CTA) and an email subject line from longer pieces when useful.
@@ -253,6 +255,8 @@ Short asks: deliver only what was asked.
 - _Add new writing-craft articles here._
 
 ## Changelog
+- 2026-11-27 - Carousel ad row: main link and end card to the overview page; each card's Book Now to that package's booking page. Feedback: https://app.notion.com/41876ddcbf5981b3850be2c4ad827485
+- 2026-11-27 - Ad image alternatives row: alternatives must be genuinely different layouts, not recoloured copies; avoid the standard photo-on-top plus text-panel ad. Feedback: https://app.notion.com/41e76ddcbf59810a96a5e788f060648e
 - 2026-11-20 - Ad image row added to channel formats: bold, with hero photo, hook, price and saving, every treatment listed, clear Book button. Feedback: https://app.notion.com/41876ddcbf598122abaaf165550110e5
 - 2026-11-04 - copied into the Ella Baché brain from icon-footwear-brain (v8); skill references pointed at ella-bache-* skills and skin-care-expert; footwear examples swapped for skin and salon ones (fan-out angles, explicit relationships, showdown criteria, closes and CTAs). Check every example against skin-care-expert and the brand voice before using it as a model.
 - 2026-10-22 - v8: new section 1a Target: SEO, AI or Both (what changes per target, Both as default, never-trade rules); target added to the brief and assumptions line; 7.6 checklist split into SEO and AI.

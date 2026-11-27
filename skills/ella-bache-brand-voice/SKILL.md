@@ -39,6 +39,8 @@ Head office's words we build on: vision "Empower every individual to feel confid
 6. **No hype:** no "amazing", "insane", "game-changer", "miracle"; at most one exclamation mark in a piece, usually none.
 7. **Australian English, AUD.** "Ella Baché" with the accent. Dates DD/MM/YYYY; times "7 pm", Hobart time. No em dashes. Emojis: zero to two per caption, never in place of words.
 8. **Photos:** real clients only with written consent; before-and-after only with written consent, unedited. Therapists named only with their agreement.
+9. **Logo:** only use a logo file Rory names, or leave the logo off. Never take a logo from a Canva AI-generated design; it is not the salon's logo.
+10. **Banned names:** never use "Happy feet" (or "Fresh face. Happy feet.") as an ad heading or package name.
 
 ## 4. Signature moves
 - "You're paying for time with a skin expert, so ask questions." Turn the facial into a plan.
@@ -91,5 +93,7 @@ Why: promises a result ("clear up"), positions the salon against medical care ("
 When the owner edits copy or says something doesn't sound like the salon, log it in Feedback; the Friday review turns it into a rule here. If head office's brand guide arrives, compare it with this file and propose any changes the owner wants in one pull request; the salon's rules stay in charge.
 
 ## Changelog
+- 2026-11-27 - Core rule 9 (logo): only a logo file Rory names, never one from a Canva AI design. Feedback: https://app.notion.com/41876ddcbf598121b5f8cbfc2e9d082b
+- 2026-11-27 - Core rule 10 (names): never "Happy feet" as an ad heading or package name. Feedback: https://app.notion.com/41e76ddcbf59819b99cdf9f7f7a31d48
 - 2026-11-20 - Source of truth: the salon's own voice rules win over head office's brand guide where they differ; head-office approval steps removed (photos, "medical-grade", checklist, section 9). Feedback: https://app.notion.com/41776ddcbf5981c7a920df4cef2f0c51 and https://app.notion.com/41776ddcbf5981cf8548fe4635efd574
 - 2026-11-04 - v1 from head office's published vision and values, the salon's 2026 ad drafts and best posts, and the brand voice section of the ig-engine salon reference (26 Oct 2026).
