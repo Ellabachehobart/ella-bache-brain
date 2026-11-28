@@ -24,6 +24,7 @@ Keep this file short. It is a map and a rulebook, not a journal.
 | Google Business Profile, reviews, Maps, local listings | `skills/ella-bache-local-seo` |
 | Website rebuild, page plans, Search Console and GA4 reports | `ella-bache-hobart-seo` (account skill, not yet in this repo) |
 | Instagram Reels, captions, calendars, audits | `ig-engine` plugin (account plugin; loads brand voice and skin-care-expert) |
+| Growth strategy: monthly growth review, quarterly sprint, trust check on ideas (Abraham + Deiss) | `skills/ella-bache-growth-system` (Notion hub: Growth System) |
 | Structured data | `templates/schema/` plus the local SEO skill |
 
 ## 2. While working
