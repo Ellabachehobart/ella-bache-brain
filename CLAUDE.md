@@ -22,8 +22,8 @@ Keep this file short. It is a map and a rulebook, not a journal.
 | Skin, treatments, ingredients, Ella Baché products, and which claims we may make | `skills/skin-care-expert` |
 | How to write: hooks, headings, PEE structure, channel formats | `skills/content-marketing-writer` (pair with brand voice) |
 | Google Business Profile, reviews, Maps, local listings | `skills/ella-bache-local-seo` |
-| Website rebuild, page plans, Search Console and GA4 reports | `ella-bache-hobart-seo` (account skill, not yet in this repo) |
-| Instagram Reels, captions, calendars, audits | `ig-engine` plugin (account plugin; loads brand voice and skin-care-expert) |
+| Website rebuild, page plans, Search Console and GA4 reports, AI search visibility | `ella-bache-hobart-seo` (account skill, not yet in this repo) |
+| Social content for every channel (Instagram, Facebook, TikTok, LinkedIn, YouTube, email, SMS): posts, Reels, captions, calendars, audits, repurposing, Canva designs | `content-engine` plugin (account plugin; replaced ig-engine 28 Nov 2026; loads brand voice and skin-care-expert) |
 | Structured data | `templates/schema/` plus the local SEO skill |
 
 ## 2. While working

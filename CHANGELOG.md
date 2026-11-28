@@ -2,6 +2,7 @@
 
 One line per change to the rules or a skill, newest first. Link the Notion Feedback item that prompted it, if there was one.
 
+- 2026-11-28: CLAUDE.md skill table, skin-care-expert and ella-bache-business: the ig-engine plugin is replaced by content-engine (all channels); CLAUDE.md also notes AI search visibility now sits in ella-bache-hobart-seo. Owner request in chat (post-install check), no Feedback item.
 - 2026-11-20: CLAUDE.md section 2 and the repeat in ella-bache-business: the salon governs itself; "Franchise rules come first" replaced by "The salon decides"; head-office approval steps removed from ella-bache-business and ella-bache-brand-voice. [Feedback](https://app.notion.com/41776ddcbf5981cf8548fe4635efd574)
 - 2026-11-20: ella-bache-brand-voice: the salon's own voice rules win over head office's brand guide. [Feedback](https://app.notion.com/41776ddcbf5981c7a920df4cef2f0c51)
 - 2026-11-20: ella-bache-local-seo and ella-bache-business: target the "Hydrafacial" search term but never call our treatment Hydrafacial (no machine); microdermabrasion named Reveal My Good Side. Replaces PR #2. [Feedback](https://app.notion.com/41776ddcbf598114b830e6306a7dd71c)

@@ -7,7 +7,7 @@ description: "Use for any question about skin: structure and function, skin type
 
 A working knowledge base for explaining, assessing and caring for skin, written for a professional salon setting in Australia. It is a living document: see Section 10 for how new learning is added. Section 11 holds Ella Baché product knowledge. Section 12 covers facial massage traditions. Section 13 covers the benefits of touch. Section 14 covers Australian claims, consent and law.
 
-**Master copy:** this file lives in the **Ellabachehobart/ella-bache-brain** GitHub repo (`skills/skin-care-expert/SKILL.md`). Changes go through a pull request; after a merge it is re-uploaded to the Claude account. The Instagram plugin (ig-engine) loads it by this name, so keep the name.
+**Master copy:** this file lives in the **Ellabachehobart/ella-bache-brain** GitHub repo (`skills/skin-care-expert/SKILL.md`). Changes go through a pull request; after a merge it is re-uploaded to the Claude account. The content-engine plugin (which replaced ig-engine on 28 Nov 2026) loads it by this name for every channel, so keep the name.
 
 ## Before and after (second brain)
 - **Before:** read CLAUDE.md in the ella-bache-brain repo, then open the Notion **Tasks** rows for this job and read each task's Next action and notes.
@@ -790,5 +790,6 @@ Contagious or active skin infection (cold sores, impetigo, fungal, warts) · inf
 - OAIC, *What is a health service provider*: https://www.oaic.gov.au/privacy/health-information/what-is-a-health-service-provider -> 14.5
 
 ## Changelog
+- 2026-11-28 - master copy note: the plugin that loads this skill is now content-engine (replaced ig-engine). Owner request in chat.
 - 2026-11-04 - moved into the Ellabachehobart/ella-bache-brain repo (source of truth from now on); added second-brain steps and Section 14 (Australian claims, consent and law); description now covers claim checks. Owner decision in chat, 4 Nov 2026.
 - 2026-10-22 - Sections 1 to 13 built (see Learning log).

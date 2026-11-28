@@ -147,7 +147,7 @@ Ella Baché face care (home-care ranges; product knowledge in skin-care-expert s
 ## 7. Channels
 | Channel | Handle / link | Notes |
 |---|---|---|
-| Instagram | @ellabachehobart | ig-engine plugin; Metricool connected |
+| Instagram | @ellabachehobart | content-engine plugin (replaced ig-engine 28 Nov 2026); Metricool connected |
 | Facebook | page ID 150824054951849 | Meta business consolidation in progress |
 | TikTok | @ellabachehobart6 | |
 | YouTube | [handle TO CONFIRM] | |
@@ -196,6 +196,7 @@ Large existing waxing and hair-removal clientele; growing skin-care focus (pigme
 - YouTube handle; email newsletter platform.
 
 ## Changelog
+- 2026-11-28 - Channels table: Instagram now runs on the content-engine plugin (replaced ig-engine). Older "ig-engine reference" notes are kept as the source of those facts. Owner request in chat.
 - 2026-11-20 - Working rules and section 0A: the salon governs itself; head-office approval steps removed (before-and-after photos, product wording). Feedback: https://app.notion.com/41776ddcbf5981cf8548fe4635efd574
 - 2026-11-20 - Booking row: direct online booking into Shortcuts coming; keep the current route until Rory says it is live. Feedback: https://app.notion.com/41776ddcbf5981b18871c9781274839c
 - 2026-11-20 - Hydrafacial row removed (no machine); Hydrafacial note added (Help Me Hydrate is the hydrating facial; the search term is targeted, the brand name never used for our treatment); microdermabrasion named Reveal My Good Side. Replaces PR #2. Feedback: https://app.notion.com/41776ddcbf598114b830e6306a7dd71c
